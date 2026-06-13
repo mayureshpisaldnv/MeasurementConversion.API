@@ -62,4 +62,5 @@ dotnet test
 - **Error contract**: controller returns `400` for known input/domain issues and allows unexpected failures to surface as `500`.
 - **Current trade-off**: supported units are hardcoded in converter dictionaries and validation regex for simplicity. A future enhancement is moving unit metadata to configuration or persistent storage.
 
+<img width="1792" height="898" alt="image" src="https://github.com/user-attachments/assets/4a3e7f33-34cf-4c82-a0f4-4855fe74c84a" />
 
