@@ -1,0 +1,11 @@
+C:\UnitConversion\UnitConversion.Domain\bin\Debug\net9.0\UnitConversion.Domain.deps.json
+C:\UnitConversion\UnitConversion.Domain\bin\Debug\net9.0\UnitConversion.Domain.dll
+C:\UnitConversion\UnitConversion.Domain\bin\Debug\net9.0\UnitConversion.Domain.pdb
+C:\UnitConversion\UnitConversion.Domain\obj\Debug\net9.0\UnitConversion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnitConversion\UnitConversion.Domain\obj\Debug\net9.0\UnitConversion.Domain.AssemblyInfoInputs.cache
+C:\UnitConversion\UnitConversion.Domain\obj\Debug\net9.0\UnitConversion.Domain.AssemblyInfo.cs
+C:\UnitConversion\UnitConversion.Domain\obj\Debug\net9.0\UnitConversion.Domain.csproj.CoreCompileInputs.cache
+C:\UnitConversion\UnitConversion.Domain\obj\Debug\net9.0\UnitConversion.Domain.dll
+C:\UnitConversion\UnitConversion.Domain\obj\Debug\net9.0\refint\UnitConversion.Domain.dll
+C:\UnitConversion\UnitConversion.Domain\obj\Debug\net9.0\UnitConversion.Domain.pdb
+C:\UnitConversion\UnitConversion.Domain\obj\Debug\net9.0\ref\UnitConversion.Domain.dll

@@ -1,0 +1,17 @@
+C:\UnitConversion\UnitConversion.Infrastructure\bin\Debug\net9.0\UnitConversion.Infrastructure.deps.json
+C:\UnitConversion\UnitConversion.Infrastructure\bin\Debug\net9.0\UnitConversion.Infrastructure.dll
+C:\UnitConversion\UnitConversion.Infrastructure\bin\Debug\net9.0\UnitConversion.Infrastructure.pdb
+C:\UnitConversion\UnitConversion.Infrastructure\bin\Debug\net9.0\UnitConversion.Application.dll
+C:\UnitConversion\UnitConversion.Infrastructure\bin\Debug\net9.0\UnitConversion.Domain.dll
+C:\UnitConversion\UnitConversion.Infrastructure\bin\Debug\net9.0\UnitConversion.Application.pdb
+C:\UnitConversion\UnitConversion.Infrastructure\bin\Debug\net9.0\UnitConversion.Domain.pdb
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\UnitConversion.Infrastructure.csproj.AssemblyReference.cache
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\UnitConversion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\UnitConversion.Infrastructure.AssemblyInfoInputs.cache
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\UnitConversion.Infrastructure.AssemblyInfo.cs
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\UnitConversion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\UnitConv.34AECD7D.Up2Date
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\UnitConversion.Infrastructure.dll
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\refint\UnitConversion.Infrastructure.dll
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\UnitConversion.Infrastructure.pdb
+C:\UnitConversion\UnitConversion.Infrastructure\obj\Debug\net9.0\ref\UnitConversion.Infrastructure.dll
